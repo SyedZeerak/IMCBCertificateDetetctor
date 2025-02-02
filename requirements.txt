@@ -1,1 +1,6 @@
 streamlit
+ultralytics
+numpy
+PIL
+time
+cv2
